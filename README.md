@@ -8,19 +8,19 @@ Azure-certified IT professional with over 6 years of experience across enterpris
 
 ### Certifications
 
-* **Microsoft Certified:** Identity and Access Administrator Associate (SC-300)[cite: 1]
-* **Microsoft Certified:** Azure Administrator Associate (AZ-104)[cite: 1]
-* **Microsoft Certified:** Azure Fundamentals (AZ-900)[cite: 1]
+* **Microsoft Certified:** Identity and Access Administrator Associate (SC-300)
+* **Microsoft Certified:** Azure Administrator Associate (AZ-104)
+* **Microsoft Certified:** Azure Fundamentals (AZ-900)
 
 ---
 
 ### Technical Skills
 
-* **Cloud Infrastructure:** Microsoft Azure, Subscription & Tenant Administration, Resource Groups, Virtual Networks[cite: 1]
-* **Infrastructure as Code & Scripting:** Terraform, Bicep, Ansible, PowerShell, Bash, MS Graph API[cite: 1]
+* **Cloud Infrastructure:** Microsoft Azure, Subscription & Tenant Administration, Resource Groups, Virtual Networks
+* **Infrastructure as Code & Scripting:** Terraform, Bicep, Ansible, PowerShell, Bash, MS Graph API
 * **Containers & CI/CD:** Docker, Docker Compose, GitHub Actions
-* **Identity & Security:** Entra ID, Conditional Access, RBAC, PIM, MFA, SIEM/XDR, Fortinet Appliances[cite: 1]
-* **Virtualization & OS:** VMware, Hyper-V, Windows Server, Linux (Ubuntu/Debian)[cite: 1]
+* **Identity & Security:** Entra ID, Conditional Access, RBAC, PIM, MFA, SIEM/XDR, Fortinet Appliances
+* **Virtualization & OS:** VMware, Hyper-V, Windows Server, Linux (Ubuntu/Debian)
 
 ---
 
@@ -33,5 +33,5 @@ Azure-certified IT professional with over 6 years of experience across enterpris
 
 ### Contact
 
-* **Email:** dazzaldhillon97@hotmail.com[cite: 1]
+* **Email:** dazzaldhillon97@hotmail.com
 * **LinkedIn:** [linkedin.com/in/dazzaldhillon](https://www.linkedin.com)
